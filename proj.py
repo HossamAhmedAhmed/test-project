@@ -12,4 +12,7 @@ window.config(bg="skyblue")
 lbl1 =Label(window,text="label1")
 lbl1.place(x=0,y=0)
 
+
+btn1 =Button(window,text="button1")
+btn1.place(x=0,y=50)
 window.mainloop()
